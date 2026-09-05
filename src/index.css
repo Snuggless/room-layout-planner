@@ -1,0 +1,6 @@
+:root { font-family: Manrope, Arial, sans-serif; color: #172132; background: #e9edf3; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+button { cursor: pointer; }
+button:disabled { cursor: not-allowed; opacity: .45; }
